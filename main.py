@@ -1,2 +1,4 @@
-message = "One of Python's strengths is its diverse community."
-print(message)
+website_url = 'https://sss-corp.com'
+website_url.removeprefix('https://')
+cleanURL = website_url.removeprefix('https://')
+print(cleanURL)
