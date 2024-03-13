@@ -1,1 +1,2 @@
-print("Languages: \n\t\\n\\tPython\n\tRust\n\t\\n\\tJavaScript")
+message = "One of Python's strengths is its diverse community."
+print(message)
